@@ -1,0 +1,13 @@
+{
+  "name": "bank_app",
+  "version": "1.0.0",
+  "description": "learntocrypto on nodejs",
+  "author": "M Matos me@marcomatos.com",
+  "main": "bank.js",
+  "scripts": {
+    "start": "node bank.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
